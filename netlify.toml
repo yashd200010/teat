@@ -2,6 +2,6 @@
 # all contexts unless otherwise overridden by more specific contexts.
 [build]
 
-  command = "sh start.sh"
+  command = "sh main.sh"
 
 
